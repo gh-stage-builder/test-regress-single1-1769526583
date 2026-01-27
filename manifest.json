@@ -1,0 +1,19 @@
+{
+  "name": "Wintari Casino",
+  "short_name": "Wintari Casino",
+  "theme_color": "",
+  "background_color": "#040726",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1769525900-icon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
