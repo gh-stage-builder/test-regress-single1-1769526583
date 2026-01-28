@@ -16,6 +16,7 @@
             "yellow": "#1855d7",
             "yellow-button": "#d500ff",
             "button-text": "#092051",
+            "main-button-text": "#ffffff",
             "border-color": "#efefdc",
             "casino-cards": "#092051",
             "bonus-border-head": "#efefdc",
@@ -77,12 +78,12 @@
                     "favicon": "https:\/\/paf-casino-online.com\/favicon.ico"
                 },
                 "hero": {
-                    "title": "H1 title about casino",
+                    "title": "H1 title about casino - MAINjkxjkxfjgjxdfjdxj",
                     "textDesktop": "Exclusive welcome offer of",
                     "textMobile": "Exclusive welcome bonus of",
                     "playGame": "Play game",
                     "claimBonus": "Claim Bonus",
-                    "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/184",
+                    "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/188",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
