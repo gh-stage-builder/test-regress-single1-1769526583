@@ -66,15 +66,15 @@
             "isDefault": true,
             "sections": {
                 "seo": {
-                    "name": "Wintari Casino",
-                    "title": "Wintari Casino Australia - Your Gaming Hub Starts Here",
-                    "description": "Wintari Casino guide for Aussie players. Discover A$1500 bonuses, rapid withdrawals, mobile pokies & multi-sport betting. Join today!",
-                    "canonical": "https:\/\/wintarionline.com\/",
-                    "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/156",
+                    "name": "Paf Casino Sverige",
+                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
+                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
+                    "canonical": "#",
+                    "ogImage": "https:\/\/paf-casino-online.com\/images\/og_image.webp",
                     "ogImageWidth": 1200,
                     "ogImageHeight": 630,
                     "twitterSite": "@pafcasino",
-                    "favicon": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/157"
+                    "favicon": "https:\/\/paf-casino-online.com\/favicon.ico"
                 },
                 "hero": {
                     "title": "H1 title about casino",
@@ -82,11 +82,11 @@
                     "textMobile": "Exclusive welcome bonus of",
                     "playGame": "Play game",
                     "claimBonus": "Claim Bonus",
-                    "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/158",
+                    "image": "https:\/\/paf-casino-online.com\/images\/hero-group.webp",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
-                    "mobileImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/159",
+                    "mobileImage": "https:\/\/paf-casino-online.com\/images\/hero-mobile.webp",
                     "mobileImageSizeModifier": 0,
                     "mobileImageYModifier": 0,
                     "mobileImageXModifier": 0
@@ -124,7 +124,7 @@
                     "advantagesAfterText": "Some text after list",
                     "knowMore": "Know more",
                     "appTitle": "Mobile App",
-                    "mobile": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/160",
+                    "mobile": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.cd4410fa.webp&w=384&q=75",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
@@ -146,7 +146,7 @@
                             "History item 2"
                         ],
                         "description2": "Second paragraph of history",
-                        "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/161",
+                        "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
                         "imageSizeModifier": 0,
                         "imageYModifier": 0,
                         "imageXModifier": 0,
