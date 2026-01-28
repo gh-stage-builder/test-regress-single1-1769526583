@@ -45,7 +45,7 @@
             "logoAlt": "Wintari Casino Logo"
         },
         "nav": {
-            "signUp": "Log In",
+            "signUp": "Log InOut",
             "playNow": "Sign Up"
         },
         "footer": {
@@ -58,11 +58,11 @@
     },
     "pages": [
         {
-            "id": "en-ca-en-CA",
+            "id": "en-fr-en-FR",
             "path": "\/",
             "name": "Английский",
             "languageCode": "en",
-            "regionCode": "CA",
+            "regionCode": "FR",
             "isDefault": true,
             "sections": {
                 "seo": {
@@ -82,7 +82,7 @@
                     "textMobile": "Exclusive welcome bonus of",
                     "playGame": "Play game",
                     "claimBonus": "Claim Bonus",
-                    "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/182",
+                    "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/184",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
