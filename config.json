@@ -69,139 +69,12 @@
                     "name": "Wintari Casino",
                     "title": "Wintari Casino Australia - Your Gaming Hub Starts Here",
                     "description": "Wintari Casino guide for Aussie players. Discover A$1500 bonuses, rapid withdrawals, mobile pokies & multi-sport betting. Join today!",
-                    "canonical": "#",
-                    "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/150",
-                    "ogImageWidth": 1200,
-                    "ogImageHeight": 630,
-                    "twitterSite": "@WintariCasino",
-                    "favicon": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/151"
-                },
-                "hero": {
-                    "title": "Wintari Casino",
-                    "textDesktop": "Exclusive welcome offer of",
-                    "textMobile": "Exclusive welcome bonus of",
-                    "playGame": "Play game",
-                    "claimBonus": "Claim Bonus",
-                    "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/153",
-                    "imageSizeModifier": 0,
-                    "imageYModifier": 0,
-                    "imageXModifier": -10,
-                    "mobileImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/154",
-                    "mobileImageSizeModifier": 0,
-                    "mobileImageYModifier": 0,
-                    "mobileImageXModifier": 0
-                },
-                "topCasino": {
-                    "topCasinoButtonText": "Claim Bonus",
-                    "title": "Top Casinos",
-                    "allCasino": "All Casino",
-                    "welcomeBonusText": "Welcome bonus"
-                },
-                "bonusDetails": {
-                    "title": "Bonus Details",
-                    "getBonusButtonText": "Get Bonus",
-                    "maximumAmountText": "Maximum amount",
-                    "wagerText": "Wager",
-                    "bonusCodeText": "Bonus Code",
-                    "casino": "Casino",
-                    "bonuses": "Bonuses",
-                    "rate": "Rate",
-                    "freeSpins": "Free Spins",
-                    "moreInfo": "More Info",
-                    "get": "Get",
-                    "refresh": "Refresh"
-                },
-                "advantages": {
-                    "title": "Advantages",
-                    "advantagesBeforeText": "Some text before list",
-                    "items": [
-                        "Legal and safe casino",
-                        "Quick registration",
-                        "Data protection",
-                        "No wagering bonus",
-                        "Wide range of games"
-                    ],
-                    "advantagesAfterText": "Some text after list",
-                    "knowMore": "Know more",
-                    "appTitle": "Mobile App",
-                    "mobile": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/152",
-                    "imageSizeModifier": 10,
-                    "imageYModifier": 0,
-                    "imageXModifier": 0,
-                    "mobileAlt": "Mobile App",
-                    "mobileGooglePlayImageTitle": "Mobile App",
-                    "mobileIosImageTitle": "Mobile App"
-                },
-                "games": {
-                    "playNowText": "Play now",
-                    "title": "Popular Games",
-                    "allGames": "All Games"
-                },
-                "about": {
-                    "history": {
-                        "title": "History",
-                        "description1": "First paragraph of history",
-                        "items": [
-                            "History item 1",
-                            "History item 2"
-                        ],
-                        "description2": "Second paragraph of history",
-                        "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/155",
-                        "imageSizeModifier": 0,
-                        "imageYModifier": 0,
-                        "imageXModifier": 0,
-                        "imageAlt": "History",
-                        "description3": "Third paragraph of history"
-                    }
-                },
-                "custom": {
-                    "customHtml": {
-                        "title": "Title for custom section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
-                    }
-                },
-                "softwareProviders": {
-                    "title": "Software Providers"
-                },
-                "custom_2": {
-                    "customHtml_2": {
-                        "title": "Title for custom section",
-                        "description": "<ul><li>bonuses<\/li><li>games<\/li><li>license<\/li><li>advantages<\/li><\/ul>"
-                    }
-                },
-                "faq": {
-                    "title": "Frequently Asked Questions",
-                    "items": [
-                        {
-                            "title": "FAQ Question 1",
-                            "answer": "FAQ Answer 1"
-                        },
-                        {
-                            "title": "FAQ Question 2",
-                            "answer": "FAQ Answer 2"
-                        }
-                    ]
-                }
-            }
-        },
-        {
-            "id": "de-de-de-DE",
-            "path": "\/de-DE",
-            "name": "Немецкий",
-            "languageCode": "de",
-            "regionCode": "DE",
-            "isDefault": false,
-            "sections": {
-                "seo": {
-                    "name": "Paf Casino Sverige",
-                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
-                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "#",
-                    "ogImage": "https:\/\/paf-casino-online.com\/images\/og_image.webp",
+                    "canonical": "https:\/\/wintarionline.com\/",
+                    "ogImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/156",
                     "ogImageWidth": 1200,
                     "ogImageHeight": 630,
                     "twitterSite": "@pafcasino",
-                    "favicon": "https:\/\/paf-casino-online.com\/favicon.ico"
+                    "favicon": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/157"
                 },
                 "hero": {
                     "title": "H1 title about casino",
@@ -209,11 +82,11 @@
                     "textMobile": "Exclusive welcome bonus of",
                     "playGame": "Play game",
                     "claimBonus": "Claim Bonus",
-                    "image": "https:\/\/paf-casino-online.com\/images\/hero-group.webp",
+                    "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/158",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
-                    "mobileImage": "https:\/\/paf-casino-online.com\/images\/hero-mobile.webp",
+                    "mobileImage": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/159",
                     "mobileImageSizeModifier": 0,
                     "mobileImageYModifier": 0,
                     "mobileImageXModifier": 0
@@ -251,7 +124,7 @@
                     "advantagesAfterText": "Some text after list",
                     "knowMore": "Know more",
                     "appTitle": "Mobile App",
-                    "mobile": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobile.cd4410fa.webp&w=384&q=75",
+                    "mobile": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/160",
                     "imageSizeModifier": 0,
                     "imageYModifier": 0,
                     "imageXModifier": 0,
@@ -273,7 +146,7 @@
                             "History item 2"
                         ],
                         "description2": "Second paragraph of history",
-                        "image": "https:\/\/paf-casino-online.com\/_next\/image?url=%2F_next%2Fstatic%2Fmedia%2FMacBook-Pro.b62d8565.webp&w=750&q=75",
+                        "image": "https:\/\/stage.backend.builder.adkey.org:443\/api\/images\/download\/161",
                         "imageSizeModifier": 0,
                         "imageYModifier": 0,
                         "imageXModifier": 0,
